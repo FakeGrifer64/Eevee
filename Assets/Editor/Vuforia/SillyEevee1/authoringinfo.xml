@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.2">
+        <ModelTarget name="SillyEevee1" targetId="bab4c3254cf84bb8be926b704d7e3626" version="14.0" toolVersion="v7.2.2" bbox="-11.945435 -15.793167 1.557082 23.788460 15.793161 44.307957" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="SillyEevee1" assemblyId="e08b86eb2c8b4b3898b21bcc45c12c20">
+        <Part name="SillyEevee1" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
